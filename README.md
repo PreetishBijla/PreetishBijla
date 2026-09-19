@@ -3,10 +3,6 @@
 
 - I’m currently learning **Microservices, System Design, gRPC & Distributed Systems**
 
-- CHRYSOSYNC **Personal Expense Tracker**
-
-- VELTREX **Real-Time Stock Market Analytics Dashboard**
-
 - My Tech **Java, Spring Boot, REST APIs, Docker & Backend Development**
 
 - How to reach me **bijlapreetish141004@gmail.com**
