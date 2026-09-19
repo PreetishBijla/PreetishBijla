@@ -1,8 +1,6 @@
 <h1 align="center">I'm Preetish Bijla</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot | Building scalable systems</h3>
 
-- LEER [Smart Campus Management Platform](https://github.com/PreetishBijla/leer)
-
 - I’m currently learning **Microservices, System Design, gRPC & Distributed Systems**
 
 - CHRYSOSYNC **Personal Expense Tracker**
